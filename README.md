@@ -1,2 +1,2 @@
 # City-Explorer
-Simple Swift App for exploring cities
+City Explorer is a Swift-based app that allows users to explore and search for cities worldwide, along with their key features like description, coordinates, and locations (e.g., restaurants, parks, museums). The app supports multiple search options, including searching by city name, keywords, and location types. Additionally, users can calculate the distance between cities and find the closest or farthest cities from a given location.
